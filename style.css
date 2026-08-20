@@ -1,7 +1,10 @@
 .container {
   display: flex;
   gap: 200px; 
-
-  justify-context: center
   
+}
+
+.h1 {
+  justify-content: center;
+
 }
