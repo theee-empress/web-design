@@ -8,7 +8,6 @@ h1 {
   justify-content: center;
   color: pink;
   text-align: center;
- 
   font-family: "Lobster", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -20,7 +19,6 @@ h3 {
   justify-content: center;
   color: pink;
   text-align: center;
- 
   font-family: "Elsie", serif;
   font-weight: 400;
   font-style: normal;
@@ -28,9 +26,8 @@ h3 {
 
 }
   p { 
-    color: pink;
-    text-align: center;
- 
+  color: pink;
+  text-align: center;
   font-family: "Elsie", serif;
   font-weight: 400;
   font-style: normal;
