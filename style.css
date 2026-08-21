@@ -1,6 +1,6 @@
 .container {
   display: flex; 
-  gap: 295px; 
+  gap: 100px; 
   color: red;
   align-items: flex-start;
   }
