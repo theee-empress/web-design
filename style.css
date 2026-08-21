@@ -27,21 +27,21 @@ body {
 .box-image {
 display: block;
 width: 100px;
-height: autopx;
+height: auto;
 border-radius: 4px;
 } 
 
 .box-image2 {
   display: block;
   width: 100px;
-  height: autopx;
+  height: auto;
   border-radius: 4px; 
 }
 
 .box-image3 {
   display: block;
   width: 100px;
-  height: autopx;
+  height: auto;
   border-radius: 4px;
 }
 
