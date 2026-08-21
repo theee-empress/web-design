@@ -53,3 +53,17 @@ border-radius: 4px;
   text-align: center;
   margin-top: auto;
 }
+
+.welcome section {
+  double: 3px red;
+  border-radius: 12px;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.pictures {
+  double: 3px red;
+  border-radius: 12px;
+  padding: 30px;
+  margin-bottom: 20px;
+}
