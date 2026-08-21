@@ -25,12 +25,17 @@ body {
 }
 
 .box-image {
-display: block;
-width: 80px;
+display: heart;
+width: 100px;
 height: auto;
 border-radius: 4px;
 } 
 
-  
+.box-image2 {
+  display: heart;
+  width: 100px;
+  height: autopx;
+  border-radius: 4px; 
+}
 
 
