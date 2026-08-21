@@ -2,7 +2,7 @@
   display: flex; 
   gap: 100px; 
   color: red;
-  align-items: flex-start;
+  align-items: center;
   }
 h1 {
   text-align:center;
