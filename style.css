@@ -45,4 +45,12 @@ border-radius: 4px;
   border-radius: 4px;
 }
 
+.pictures {
+  flex:1;
+}
 
+.site-footer {
+  text-align: center;
+  margin-top: auto;
+  size: 50px;
+}
