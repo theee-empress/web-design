@@ -1,21 +1,21 @@
 .container {
   display: flex; 
   gap: 20px; 
-  color: #FF69B4;
+  color: red;
   }
 h1 {
   text-align:center;
-  color: pink;
+  color: red;
 }
 
 h3 {
   text-align: center;
-  color: pink;
+  color: red;
 }
 
 p {
   text-align:center;
-  color: pink;
+  color: red;
 }
 
 body {
