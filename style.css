@@ -1,1 +1,6 @@
+.container {
+  display: flex; 
+  gap: 200px; 
+  color: #FF69B4;
+  }
 
