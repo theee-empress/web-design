@@ -30,3 +30,11 @@ body {
   height: autopx;
   border-radius: 4px;
 }
+
+.box-image2 {
+  display:block;
+  width: 250px;
+  height: autopx;
+  border-radius: 4px;
+}
+
