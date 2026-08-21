@@ -55,14 +55,14 @@ border-radius: 4px;
 }
 
 .welcome-section {
-  double: 3px red;
+  border: 3px double red;
   border-radius: 12px;
   padding: 30px;
   margin-bottom: 20px;
 }
 
 .pictures {
-  double: 3px red;
+  border: 3px double red;
   border-radius: 12px;
   padding: 30px;
   margin-bottom: 20px;
