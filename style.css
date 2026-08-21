@@ -25,14 +25,14 @@ body {
 }
 
 .box-image {
-display: heart;
+display: block;
 width: 100px;
-height: auto;
+height: autopx;
 border-radius: 4px;
 } 
 
 .box-image2 {
-  display: heart;
+  display: block;
   width: 100px;
   height: autopx;
   border-radius: 4px; 
